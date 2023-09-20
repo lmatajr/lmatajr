@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lmatajr
+- 👋 Hi, I’m @lmatajr.
 - 👀 I’m interested in Python programming and web apps.
 - 🌱 I’m currently learning Python, html, css.
 - 💞️ I’m just starting so can't collaborate on much just yet.
